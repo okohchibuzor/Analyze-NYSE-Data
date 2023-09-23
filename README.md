@@ -37,6 +37,45 @@ The INDEX and MATCH functions were used to look up and retrieve the financial da
 
 I created a drop-down list using data validation which is connected to the profit and loss table. When a company is selected from the drop-down list, the income statement for that company is displayed in the table.
 
-![](uda_5.PNG)
-
 ![](uda_6.PNG)
+
+![](uda_7.PNG)
+
+### TASK 3
+---
+For this task, I created a financial model that forecasts the Gross Profit, Operating Profit and Operating income for the next two years using the three scenarios (Strong case, Weak case, and Base Case).
+
+### Strong Case:
+ ---
+
+Here are my assumptions for the strong case scenario:
+- There will be a 26% increase in revenue growth over the next two years.
+- There will be an increase in the gross margin and operating margin to 0.77 and 0.05 respectively.
+
+![](uda_strong.PNG)
+
+### Base Case:
+ ---
+
+Here are my assumptions for the base case scenario:
+- There will be a 25% increase in revenue growth over the next two years.
+- There will be an increase in the gross margin and operating margin to 0.76 and 0.03 respectively.
+
+![](uda_base.PNG)
+
+### Weak Case:
+---
+
+Here are my assumptions for the weak case scenario:
+- There will be a 23% increase in revenue growth over the next two years.
+- There will be an increase in the gross margin and operating margin to 0.75 and 0.02 respectively.
+
+![](uda_weak.PNG)
+
+![](uda_8.PNG)
+
+
+Please reach out to me if you have any questions:
+Twitter - ![](https://twitter.com/cisco_official?t=zdocHllXoG5cV__V9h0pWg&s=09)
+Linkedin -  ![](https://linkedin.com/in/chibuzor-data-analyst)
+
