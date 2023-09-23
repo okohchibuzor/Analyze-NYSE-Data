@@ -75,7 +75,9 @@ Here are my assumptions for the weak case scenario:
 ![](uda_8.PNG)
 
 
-Please reach out to me if you have any questions:
-Twitter - ![](https://twitter.com/cisco_official?t=zdocHllXoG5cV__V9h0pWg&s=09)
-Linkedin -  ![](https://linkedin.com/in/chibuzor-data-analyst)
+### Connect with me
+---
 
+  [Linkedin](https://linkedin.com/in/chibuzor-data-analyst) 
+  
+[Twitter](https://twitter.com/cisco_official?t=zdocHllXoG5cV__V9h0pWg&s=09)
